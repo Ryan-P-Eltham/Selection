@@ -1,0 +1,13 @@
+C:\Users\School\source\repos\Selection\selection\selection\obj\Debug\netcoreapp3.1\selection.csprojAssemblyReference.cache
+C:\Users\School\source\repos\Selection\selection\selection\obj\Debug\netcoreapp3.1\selection.AssemblyInfoInputs.cache
+C:\Users\School\source\repos\Selection\selection\selection\obj\Debug\netcoreapp3.1\selection.AssemblyInfo.cs
+C:\Users\School\source\repos\Selection\selection\selection\obj\Debug\netcoreapp3.1\selection.csproj.CoreCompileInputs.cache
+C:\Users\School\source\repos\Selection\selection\selection\bin\Debug\netcoreapp3.1\selection.exe
+C:\Users\School\source\repos\Selection\selection\selection\bin\Debug\netcoreapp3.1\selection.deps.json
+C:\Users\School\source\repos\Selection\selection\selection\bin\Debug\netcoreapp3.1\selection.runtimeconfig.json
+C:\Users\School\source\repos\Selection\selection\selection\bin\Debug\netcoreapp3.1\selection.runtimeconfig.dev.json
+C:\Users\School\source\repos\Selection\selection\selection\bin\Debug\netcoreapp3.1\selection.dll
+C:\Users\School\source\repos\Selection\selection\selection\bin\Debug\netcoreapp3.1\selection.pdb
+C:\Users\School\source\repos\Selection\selection\selection\obj\Debug\netcoreapp3.1\selection.dll
+C:\Users\School\source\repos\Selection\selection\selection\obj\Debug\netcoreapp3.1\selection.pdb
+C:\Users\School\source\repos\Selection\selection\selection\obj\Debug\netcoreapp3.1\selection.genruntimeconfig.cache

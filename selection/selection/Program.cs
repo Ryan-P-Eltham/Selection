@@ -22,7 +22,11 @@ namespace selection
                     double idkwhatthisis = Convert.ToDouble(a2);
                     StatesOfWater(idkwhatthisis);
                     break;
+             //   case 3: 
+                    
+
             }
+            Console.ReadLine();
         }
         static void PassFail(int minorfaults)
         {
@@ -48,6 +52,10 @@ namespace selection
                 {
                     Console.WriteLine("Liquid");
                 }
+            }
+            if (idkwhatthisis < 1)
+            {
+                Console.WriteLine("Solid");
             }
         }
     }
